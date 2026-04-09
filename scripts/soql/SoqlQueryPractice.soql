@@ -1,0 +1,1 @@
+Select Id, (Select Count(Id) From Contacts) From Account
